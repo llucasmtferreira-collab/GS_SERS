@@ -101,7 +101,7 @@ Considerando o fator médio de emissão de CO₂ e o preço médio da energia:
 - **Redução anual de CO₂:** 0.1964 kg  
 - **Economia financeira:** R$ 0.39/ano  
 
-Os valores são pequenos devido ao tamanho reduzido do dataset, mas ilustram corretamente o impacto dos ajustes.
+Os valores apresentados são menores porque refletem a operação de um único comércio. Porém, ao ampliar essa lógica para grandes indústrias ou operações de maior escala, o impacto dos ajustes torna-se muito mais significativo.
 
 ---
 
