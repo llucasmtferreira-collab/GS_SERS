@@ -66,7 +66,7 @@ Os gráficos indicaram que o consumo do comércio é **regular e previsível**, 
 
 ---
 
-##  4. Identificação de Desperdícios (Bloco 7.1)
+##  4. Identificação de Desperdícios 
 Utilizei critérios estatísticos para detectar picos anormais:
 
 - **Picos anormais detectados:** 0  
@@ -81,7 +81,7 @@ Também avaliamos a relação entre temperatura e consumo:
 
 ---
 
-##  5. Simulação de Ajustes Operacionais (Bloco 7.2)
+##  5. Simulação de Ajustes Operacionais 
 Foram simuladas duas estratégias de redução do consumo:
 
 ###  Redução de 10% nos horários de pico  
@@ -95,7 +95,7 @@ Economia estimada: **0.2480 kWh**
 
 ---
 
-##  6. Ganhos Ambientais e Econômicos (Bloco 7.3)
+##  6. Ganhos Ambientais e Econômicos 
 Considerando o fator médio de emissão de CO₂ e o preço médio da energia:
 
 - **Redução anual de CO₂:** 0.1964 kg  
