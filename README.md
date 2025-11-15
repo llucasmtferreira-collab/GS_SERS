@@ -150,8 +150,9 @@ No notebook do Colab:
 ### 5. Carregue o arquivo no Python
 Com o arquivo enviado, basta rodar a célula com:
 
+```pytohn
 df = pd.read_csv("energy_consumption_levels.csv")
-
+```
 ---
 
 ### 6. Execute as células na ordem
