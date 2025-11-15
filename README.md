@@ -5,6 +5,7 @@ GLOBAL SOLUTION – SOLUÇÕES EM ENERGIAS RENOVÁVEIS E SUSTENTÁVEIS
 #  Descrição Clara da Solução
 
 A solução desenvolvida consiste em uma análise estatística, energética e exploratória completa aplicada a um conjunto de dados contendo medições horárias de consumo elétrico e temperatura de um estabelecimento comercial ao longo de um ano inteiro. O objetivo central é fornecer uma visão clara, fundamentada e acionável sobre como o estabelecimento utiliza energia ao longo do tempo — identificando padrões, horários críticos, oportunidades de economia e potenciais desperdícios.
+
 ---
 
 ##  Descrição da Base de Dados
