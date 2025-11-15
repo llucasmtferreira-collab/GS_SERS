@@ -168,6 +168,7 @@ O notebook vai gerar automaticamente todas as métricas, análises, gráficos e 
 
 #  Estrutura do Repositório
 
+```
 GS_SERS/
 ├─ Fonte/ # Arquivos de dados (CSV)
 │ └─ consumo_comercio.csv
@@ -177,7 +178,7 @@ GS_SERS/
 │ └─ analise_consumo.ipynb
 │
 └─ README.md # Documentação principal do projeto
-
+```
 
 ### Descrição das pastas
 
